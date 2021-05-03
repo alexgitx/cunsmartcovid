@@ -18,7 +18,7 @@ Deberá obtener algo parecido a "Python 3.8.2" como respuesta.
 
 Luego ejecutar:
 
-sudo apt install -y python3-pip 
+sudo apt install -y python3-pip  
 pip3 install numpy  
 pip3 install  pandas  
 
