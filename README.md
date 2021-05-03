@@ -13,13 +13,16 @@ sudo pip3 install  pandas
 
 Lo cual instalará Python 3 y las librerias necesarias para ejecutar el código.
 
-Después descomprimir el archivo .py
+Después descomprimir el archivo "nombre.py"
 
-Finalmente en una ventana de comandos navegar hasta la ubicacion del archivo (o abrir un terminal desde la ubicacion del archivo empleando el boton derecho del raton),
-y ejecutar " python3 Generador de Muestras.py " para iniciar la interfaz.
+Finalmente en una ventana de comandos navegar hasta la ubicacion del archivo (o abrir un terminal desde la ubicacion del archivo empleando el boton derecho del raton), y ejecutar:
+
+python3 Generador de Muestras.py
 
 
 ## Para usuarios Windows:
 
--Una vez descomprimido el archivo .EXE simplemente hacer doble click sobre el mismo, tenga en cuanta que puede que la interfaz tarde unos segundos en cargarse.
+Una vez descomprimido el archivo "nombre.exe" simplemente hacer doble click sobre el mismo, tenga en cuanta que puede que la interfaz tarde unos segundos en cargarse.
+
+
 
