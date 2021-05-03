@@ -1,6 +1,6 @@
   # Instrucciones
   
-  Seguir el enlace de Drive " https://drive.google.com/file/d/1sU-iktu3r9Yahb7Pt5um9xsUImD-V8xd/view?usp=sharing " donde se encuentra compartido el archivo en formato .zip,   descomprimirlo en una carpeta y seguir las instrucciones correspondientes al sistema operativo que se este empelando.
+  Seguir el enlace de Drive " short.gy/bK9spn " donde se encuentra compartido el archivo en formato .zip,   descomprimirlo en una carpeta y seguir las instrucciones correspondientes al sistema operativo que se este empelando.
 
 
 ## Para usuarios Ubuntu 18.04 o 20.04:
