@@ -23,6 +23,7 @@ python3 GeneradordeMuestras.py
 ## Para usuarios Windows:
 
 Descomprimir el archivo "CUN.zip". 
+
 Ejecutar "Generador de Muestras.exe" simplemente hacer doble click sobre el mismo. 
 
 Aviso: La interfaz puede tardar unos segundos en cargarse.
