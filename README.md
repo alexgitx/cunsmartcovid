@@ -10,7 +10,8 @@ Abrir una consola, y ejecutar los siguientes comandos:
 sudo apt update
 sudo apt -y upgrade
 
-Comprobar la instalación de Python3:  
+Comprobar la instalación de Python3, escribir en la consola:  
+
 python3 -V
 
 Deberá obtener algo parecido a "Python 3.8.2" como respuesta.
