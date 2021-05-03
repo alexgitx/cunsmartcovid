@@ -3,13 +3,23 @@
   Seguir el enlace de Drive " https://drive.google.com/file/d/1sU-iktu3r9Yahb7Pt5um9xsUImD-V8xd/view?usp=sharing " donde se encuentra compartido el archivo en formato .zip,   descomprimirlo en una carpeta y seguir las instrucciones correspondientes al sistema operativo que se este empelando.
 
 
-## Para usuarios Linux:
+## Para usuarios Ubuntu 18.04 o 20.04:
 
 Abrir una consola, y ejecutar los siguientes comandos:
 
-sudo apt install python3  
-sudo pip3 install numpy  
-sudo pip3 install  pandas  
+sudo apt update
+sudo apt -y upgrade
+
+Comprobar la instalación de Python3:  
+python3 -V
+
+Deberá obtener algo parecido a "Python 3.8.2" como respuesta.
+
+Luego ejecutar:
+
+sudo apt install -y python3-pip 
+pip3 install numpy  
+pip3 install  pandas  
 
 Lo cual instalará Python 3 y las librerias necesarias para ejecutar el código.
 
