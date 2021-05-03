@@ -7,9 +7,9 @@
 
 En una ventana de comandos ejecutar, los siguientes comandos:
 
-sudo apt install python3
-sudo pip3 install numpy
-sudo pip3 install  pandas
+sudo apt install python3  
+sudo pip3 install numpy  
+sudo pip3 install  pandas  
 
 Lo cual instalará Python 3 y las librerias necesarias para ejecutar el código.
 
