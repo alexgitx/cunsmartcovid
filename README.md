@@ -5,7 +5,7 @@
 
 ## Para usuarios Linux:
 
-En una ventana de comandos ejecutar, los siguientes comandos:
+Abrir una consola, y ejecutar los siguientes comandos:
 
 sudo apt install python3  
 sudo pip3 install numpy  
@@ -15,7 +15,7 @@ Lo cual instalará Python 3 y las librerias necesarias para ejecutar el código.
 
 Después descomprimir el archivo "nombre.py"
 
-Finalmente en una ventana de comandos navegar hasta la ubicacion del archivo (o abrir un terminal desde la ubicacion del archivo empleando el boton derecho del raton), y ejecutar:
+Finalmente, abrir una consola en la ubicacion del archivo (o abrir un terminal desde la ubicacion del archivo empleando el boton derecho del raton), y ejecutar:
 
 python3 Generador de Muestras.py
 
