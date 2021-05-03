@@ -5,14 +5,17 @@
 
 ## Para usuarios Linux:
 
+En una ventana de comandos ejecutar, los siguientes comandos:
 
--En una ventana de comandos ejecutar " sudo apt install python3 " para isntalar Python 3 en su sistema.
+sudo apt install python3
+sudo pip3 install numpy
+sudo pip3 install  pandas
 
--Una vez instalado, ejecutar en una ventana de comandos " sudo pip3 install numpy" y " sudo pip3 install  pandas" para instalar las librerias necesarias para ejecutar el codigo.
+Lo cual instalará Python 3 y las librerias necesarias para ejecutar el código.
 
--Descomprimir el archivo .py
+Después descomprimir el archivo .py
 
--Finalmente en una ventana de comandos navegar hasta la ubicacion del archivo (o abrir un terminal desde la ubicacion del archivo empleando el boton derecho del raton),
+Finalmente en una ventana de comandos navegar hasta la ubicacion del archivo (o abrir un terminal desde la ubicacion del archivo empleando el boton derecho del raton),
 y ejecutar " python3 Generador de Muestras.py " para iniciar la interfaz.
 
 
