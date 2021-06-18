@@ -38,3 +38,12 @@ Descomprimir el archivo "CUN.zip".
 Ejecutar "Generador de Muestras.exe" simplemente hacer doble click sobre el mismo. 
 
 Aviso: La interfaz puede tardar unos segundos en cargarse.
+
+
+# Notas de la version
+
+-La libreria de Numpy se ha actualizado, ahora se genera asi:
+
+    rng = default_rng(z)
+    number = rng.choice(len(ids), size=a.articles, replace=False)
+Siendo z la semilla, la principal mejora es que ahora se puede elegir si se quiere con o sin repeticion la muestra generada.    
